@@ -1,11 +1,11 @@
 :root {
-    --color-background: rgb(199, 199, 199);
-    --color-on-background: rgb(199, 199, 199);
+    --color-background: rgb(255, 255, 255);
+    --color-on-background: rgb(255, 255, 255);
     --color-background-hover: #b9b9b9;
     --color-on-background-hover: black;
     --color-primary: #818181;
     --color-on-primary: white;
-    --color-error: #de0000;
+    --color-error: #ff0000;
     --color-on-error: white;
 }
 
@@ -19,7 +19,7 @@ header.dark {
     --color-primary: #464646;
     --color-primary-disabled: #464646;
     --color-on-primary: white;
-    --color-error: #de0000;
+    --color-error: #990000;
     --color-on-error: white;
 }
 
